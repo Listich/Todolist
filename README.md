@@ -5,10 +5,11 @@ Une application Todo List en React avec une **interface girly/pastel**, parfaite
 ## 💖 Aperçu
 
 ### 🌼 Mode principal
-![Todo UI](./screenshots/todo-light.png)
+<img width="936" height="927" alt="Screenshot From 2025-09-14 19-51-15" src="https://github.com/user-attachments/assets/b6a60d4a-a827-407b-8fc1-ba8d8fa418b3" />
+
 
 ### 📱 Version responsive
-![Todo responsive](./screenshots/todo-dark.png)
+<img width="936" height="927" alt="Screenshot From 2025-09-14 19-51-05" src="https://github.com/user-attachments/assets/074f76f7-38a3-4183-8cff-607e94bd80b1" />
 
 ---
 
